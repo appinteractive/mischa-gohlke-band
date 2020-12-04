@@ -11,9 +11,7 @@ seite:
 - template: slideshow
 
 ---
-<img src="/svg/logo-dark.svg" class="text-white fill-current"></img>
-
-
+<img src="/svg/logo-light.svg"></img>
 
 # Mischa Gohlke Band
 

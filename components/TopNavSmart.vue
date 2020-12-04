@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="nav-main md:flex md:flex-wrap bg-gray-900 border-gray-800 fixed w-full z-50"
+    class="nav-main md:flex md:flex-wrap text-gray-400 bg-gray-900 border-gray-800 fixed w-full z-50"
     role="navigation"
     aria-label="Hauptnavigation"
   >
@@ -58,7 +58,7 @@
           >
             <TopNavLink
               :to="getNearestURL(level1)"
-              class="level1 font-medium tracking-wide hover:text-gray-900 flex py-2 md:py-0 md:pt-2 md:px-4 md:pb-3 md:mt-0 relative"
+              class="level1 font-medium tracking-wide hover:text-white hover:underline flex py-2 md:py-0 md:pt-2 md:px-4 md:pb-3 md:mt-0 relative"
               :class="activeMain === level1.title && 'font-bold'"
               role="menuitem"
               @mouseenter.native="setCurrentIndex(index1)"
@@ -193,6 +193,6 @@ export default {
 <style lang="postcss">
 .nav-main .level1.link-active,
 .nav-main .level1.link-parent-active {
-  @apply font-bold text-gray-900;
+  @apply font-bold text-white;
 }
 </style>

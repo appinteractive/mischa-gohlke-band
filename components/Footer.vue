@@ -1,5 +1,5 @@
 <template>
-  <footer class="w-full bg-gray-900 text-gray-200 bottom-0">
+  <footer class="w-full bg-gray-900 text-gray-300 bottom-0">
     <div class="container m-auto px-4 md:px-8 py-10 pb-16 lg:pb-10">
       <div class="grid lg:grid-cols-2">
         <div
@@ -7,12 +7,12 @@
           :key="col.title"
           class="flex flex-col pb-8"
         >
-          <h3 class="text-xs uppercase text-gray-200 font-bold pb-3">{{ col.title }}</h3>
+          <h3 class="text-xs uppercase text-gray-300 font-bold pb-3">{{ col.title }}</h3>
           <div>
             <div
               v-for="row in col.children"
               :key="row.title"
-              class="flex flex-col pb-1 text-gray-300"
+              class="flex flex-col pb-1 text-gray-400"
             >
               <nuxt-link v-if="row.url" :to="row.url" class="hover:underline hover:text-white">
                 {{ row.title }}
@@ -33,7 +33,7 @@
         <div class="text-sm flex flex-grow">
           {{ copyright }}
         </div>
-        <social-icons class="flex justify-end items-center text-gray-300" />
+        <social-icons class="flex justify-end items-center text-gray-400" />
       </div>
     </div>
   </footer>
