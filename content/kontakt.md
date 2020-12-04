@@ -2,16 +2,25 @@
 title: Kontakt
 description: ''
 alias: "/kontakt.html"
-wide: false
+wide: true
 
 ---
-# Kontakt
 
-„Grenzen sind relativ e.V.“
+# Booking & Kontakt
+
+
+## Booking
+
+Bitte schickt uns Bookinganfragen an:
+aktion@grenzensindrelativ.de  
+
+## Kontakt
+
+„Mischa Gohlke Band“
 
 c/o Mischa Gohlke  
 Wrangelstrasse 103  
 20235 Hamburg
 
-E-Mail: mail@grenzensindrelativ.de  
-Telefon: +49 (0) 172 4307786 (Barbara Wetzer)
+E-Mail: aktion@grenzensindrelativ.de  
+Telefon: [+49 (0) 172 4307786](tel://+491724307786) (Barbara Wetzer)

@@ -44,7 +44,7 @@
           </button>
         </div>
         <ul
-          class="mt-12 md:mt-0 pt-1 flex-grow justify-center"
+          class="mt-12 md:mt-0 pt-1 w-full flex-grow justify-center"
           @mouseleave="closeDelayed"
           mouseenter="clearDelay"
           aria-label="Seiten"
@@ -191,8 +191,12 @@ export default {
 </script>
 
 <style lang="postcss">
-.nav-main .level1.link-active,
-.nav-main .level1.link-parent-active {
+.nav-main .level1.link-active {
   @apply font-bold text-white;
 }
+
+/* .nav-main .level1.link-active,
+.nav-main .level1.link-parent-active {
+  @apply font-bold text-white;
+} */
 </style>

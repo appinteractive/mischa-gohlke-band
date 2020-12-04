@@ -2,24 +2,23 @@
   "menu": [
     {
       "title": "Band",
-      "page": "content/spenden.md",
       "children": [],
       "external": true,
       "url": "/"
     },
     {
       "title": "Videos",
-      "page": "content/media.md",
+      "page": "content/videos.md",
       "children": []
     },
     {
       "title": "Presse",
-      "page": "content/spenden.md",
+      "page": "content/presse.md",
       "children": []
     },
     {
       "title": "Live",
-      "page": "content/kontakt.md",
+      "page": "content/live.md",
       "children": []
     },
     {
@@ -29,7 +28,7 @@
     },
     {
       "title": "Engagement",
-      "page": "content/kontakt.md",
+      "page": "content/engagement.md",
       "children": []
     }
   ]

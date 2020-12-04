@@ -1,6 +1,7 @@
 ---
 title: Datenschutz
 description: Datenschutz
+wide: true
 
 ---
 # Datenschutz

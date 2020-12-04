@@ -145,6 +145,9 @@ export default {
 .prose {
   @apply text-gray-300;
 }
+.prose strong, .prose a {
+  @apply text-gray-200;
+}
 .prose h1 {
   @apply font-bold text-4xl text-gray-200;
 }

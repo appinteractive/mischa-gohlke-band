@@ -18,15 +18,11 @@
       ]
     },
     {
-      "title": "Grenzen sind relativ e.V.",
+      "title": "Marketing",
       "children": [
         {
-          "title": "Mitmachen",
-          "page": "content/mitmachen.md"
-        },
-        {
-          "title": "Spenden",
-          "page": "content/spenden.md"
+          "title": "Presse-Kit",
+          "page": "content/presse.md"
         }
       ]
     }

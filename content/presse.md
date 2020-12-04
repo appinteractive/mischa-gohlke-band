@@ -1,6 +1,7 @@
 ---
 title: Presse
 description: 
+wide: true
 
 ---
 # Presse
