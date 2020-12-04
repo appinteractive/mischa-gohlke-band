@@ -11,7 +11,6 @@ seite:
 ---
 
 <teaser-video></teaser-video>
-<!-- <img src="/svg/logo-light.svg"></img> -->
 
 # Mischa Gohlke Band
 

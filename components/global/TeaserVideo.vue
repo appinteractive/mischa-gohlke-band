@@ -1,7 +1,7 @@
 <template>
-  <div class="h-64 py-48">
+  <div class="h-64 py-40 mb-5 md:py-48 md:mb-0">
     <div
-      class="absolute left-0 top-0 right-0 mt-10 h-full w-full flex items-center justify-center bg-black"
+      class="absolute left-0 top-0 right-0 mt-8 md:mt-10 h-full w-full flex items-center justify-center bg-black"
       style="max-height: 400px;"
     >
       <client-only>
