@@ -25,6 +25,7 @@
     "swiper": "^6.3.5",
     "vue-awesome-swiper": "^4.1.1",
     "vue-observe-visibility": "^0.4.6",
+    "vue-responsive-video-background-player": "1.2.1",
     "vue-svg-loader": "^0.16.0",
     "vue-truncate-filter": "^1.1.7"
   },

@@ -9720,6 +9720,11 @@ vue-observe-visibility@^0.4.6:
   resolved "https://registry.yarnpkg.com/vue-observe-visibility/-/vue-observe-visibility-0.4.6.tgz#878cb8ebcf3078e40807af29774e97105ebd519e"
   integrity sha512-xo0CEVdkjSjhJoDdLSvoZoQrw/H2BlzB5jrCBKGZNXN2zdZgMuZ9BKrxXDjNP2AxlcCoKc8OahI3F3r3JGLv2Q==
 
+vue-responsive-video-background-player@1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/vue-responsive-video-background-player/-/vue-responsive-video-background-player-1.2.1.tgz#ab30dfe6a8ef9102925ccf18985f1dd94802362a"
+  integrity sha512-oIq00tlieOBPE3Ybc+qJmbCm0tq1fg5/nLrWNKLhAcNUM89xwRlx17u6A8FQ4Eir8up9XX0+gPRhUrjZckJ3SA==
+
 vue-router@^3.4.9:
   version "3.4.9"
   resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-3.4.9.tgz#c016f42030ae2932f14e4748b39a1d9a0e250e66"

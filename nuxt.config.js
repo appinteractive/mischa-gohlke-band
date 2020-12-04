@@ -87,6 +87,7 @@ export default {
   plugins: [
     { src: '~/plugins/store-init.js' },
     { src: '~/plugins/vue-awesome-swiper', mode: 'client' },
+    { src: '~/plugins/vue-video-background', mode: 'client' },
     // { src: '~/plugins/vue-anouncer', mode: 'client' },
     // '~/plugins/components.js',
     // '~/plugins/components.js',

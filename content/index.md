@@ -9,7 +9,9 @@ wide: true
 seite:
 - template: seite
 ---
-<img src="/svg/logo-light.svg"></img>
+
+<teaser-video></teaser-video>
+<!-- <img src="/svg/logo-light.svg"></img> -->
 
 # Mischa Gohlke Band
 
