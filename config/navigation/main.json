@@ -2,34 +2,46 @@
   "menu": [
     {
       "title": "Band",
-      "children": [],
+      "children": [
+
+      ],
       "external": true,
       "url": "/"
     },
     {
       "title": "Videos",
       "page": "content/videos.md",
-      "children": []
+      "children": [
+
+      ]
     },
     {
       "title": "Presse",
       "page": "content/presse.md",
-      "children": []
+      "children": [
+
+      ]
     },
     {
       "title": "Live",
       "page": "content/live.md",
-      "children": []
+      "children": [
+
+      ]
     },
     {
-      "title": "Booking & Kontakt",
+      "title": "Kontakt & Booking",
       "page": "content/kontakt.md",
-      "children": []
+      "children": [
+
+      ]
     },
     {
       "title": "Engagement",
       "page": "content/engagement.md",
-      "children": []
+      "children": [
+
+      ]
     }
   ]
 }
