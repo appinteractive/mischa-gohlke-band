@@ -5,14 +5,12 @@ alias: "/kontakt.html"
 wide: true
 
 ---
-
-# Booking & Kontakt
-
+# Kontakt & Booking
 
 ## Booking
 
 Bitte schickt uns Bookinganfragen an:
-aktion@grenzensindrelativ.de  
+aktion@grenzensindrelativ.de
 
 ## Kontakt
 
