@@ -31,3 +31,5 @@ fields:
     required: false
   label: Alias
   description: Alte URL (optional)
+pages:
+- content/band.md
