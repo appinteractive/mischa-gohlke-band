@@ -41,9 +41,3 @@ Komplettiert wird die Band durch den aus Los Angeles stammenden Multiinstrumenta
 Das Power-Trio spielte bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho.
 
 Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen lässt.
-
-## Referenzen:
-
-**Bekannt aus** ARD, ZDF, RTL, Sat1, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, HH1, ORF, Sport 1, NDR 90.3, NDR 1 Welle Nord, Deutsche Welle, Deutschland Radio, Deutschlandfunk Kultur, Radio Berlin 88,8, Kieler Nachrichten, TAZ, MOPO, Hamburger Abendblatt, Kobinet Nachrichten, Aktion Mensch, Hearzone, LifeInSight, Lebensart, Szene, Oxmox, Prinz, musiker, Gitarre & Bass, Musikschule intern, uvam.
-
-**Bereits bespielte Bühnen:** Kieler Woche (NDR, Rathausbühne, Max Santa Fe, usw.), Fabrik Hamburg, Philharmonic Minsk, Sommerblut Festival Köln, Philharmonie Luxembourg, Tanzbrunnenbühne Kölner Rheinpark, Pumpe Kiel, Werkhof Lübeck, Downtown Bluesclub Hamburg, Stadtfest Eutin, Altonale Hamburg, Millerntorstadion St. Pauli, Hamburger Volksparkstadion, Wirsol Rhein-Neckar-Arena,uvam.
