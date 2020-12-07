@@ -11,7 +11,6 @@
             {src: '/media/video/mgb-teaser.mp4', res: 1080, autoplay: true}
           ]"
           class="flex opacity-50 h-full w-full"
-          overlay="linear-gradient(45deg,#2a4ae430,#fb949e6b)"
         />
       </client-only>
       <logo class="absolute w-auto lg:w-auto h-48 max-w-full px-12" />

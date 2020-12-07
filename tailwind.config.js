@@ -39,7 +39,7 @@ module.exports = {
         ],
       },
       colors: {
-        gray: colors.coolGray,
+        gray: colors.gray,
         primary: {
           50: '#F4F8F9',
           100: '#E9F1F3',

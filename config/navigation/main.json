@@ -1,7 +1,7 @@
 {
   "menu": [
     {
-      "title": "Band",
+      "title": "Startseite",
       "children": [
 
       ],
@@ -9,8 +9,8 @@
       "url": "/"
     },
     {
-      "title": "Videos",
-      "page": "content/videos.md",
+      "title": "Band",
+      "page": "content/band.md",
       "children": [
 
       ]
