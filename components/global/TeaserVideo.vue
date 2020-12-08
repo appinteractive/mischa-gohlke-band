@@ -6,23 +6,26 @@
     >
       <client-only>
         <video-background
-          src="/media/video/mgb-teaser-1080p.mp4"
+          src="/media/video/mgb-teaser-1080p-neu.mp4"
           :sources="[
-            {src: '/media/video/mgb-teaser.mp4', res: 1080, autoplay: true}
+            {src: '/media/video/mgb-teaser-540p-neu.mp4', res: 1080, autoplay: true}
           ]"
           class="flex opacity-50 h-full w-full"
         />
       </client-only>
       <logo class="absolute w-auto lg:w-auto h-48 max-w-full px-12" />
+      <HLine class="absolute text-gray-800 -mt-6 h-6 bottom-0 rotate-180 w-screen" />
     </div>
   </div>
 </template>
 
 <script>
 import Logo from '~/components/Logo'
+import HLine from '~/components/HLine'
 
 export default {
   components: {
+    HLine,
     Logo,
   },
 }
