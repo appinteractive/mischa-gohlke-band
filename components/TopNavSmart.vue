@@ -1,17 +1,17 @@
 <template>
   <nav
-    class="nav-main md:flex md:flex-wrap text-gray-400 bg-gray-900 border-gray-800 fixed w-full z-50"
+    class="nav-main md:flex shadow-lg md:flex-wrap text-gray-400 bg-gray-900 fixed w-full z-50"
     role="navigation"
     aria-label="Hauptnavigation"
   >
     <div
-      class="w-full border-b border-gray-800 p-4 md:h-auto overflow-y-scroll md:overflow-y-visible"
+      class="w-full p-4 md:h-auto overflow-y-scroll md:overflow-y-visible"
       :class="isOpen && 'h-screen'"
     >
       <div
         class="container px-4 lg:px-8 mx-auto flex flex-col md:flex-row items-center relative h-full"
       >
-        <div class="flex fixed bg-gray-900 z-10 top-0 left-0 px-4 py-4 md:p-0 border-gray-800 border-b md:border-0 md:static w-full md:w-auto items-center justify-center">
+        <div class="flex fixed bg-gray-900 z-10 top-0 left-0 px-4 py-4 md:p-0 md:border-0 md:static w-full md:w-auto items-center justify-center">
           <nuxt-link to="/" class="flex items-center self-center h-full lg:w-32" aria-label="Startseite">
             <Logo
               class="flex flex-shrink-0 flex-grow-0 mr-2 lg:mr-6"
