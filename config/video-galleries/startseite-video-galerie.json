@@ -1,15 +1,23 @@
 {
   "videos": [
     {
-      "title": "Musikvideo - \"AndersSein vereint - Inklusionssong für Deutschland\"",
-      "videoId": "KPi9ZNp-YJQ"
+      "title": "Mischa Gohlke Band - Teaser",
+      "videoId": "D2xro2s2Crs"
     },
     {
-      "title": "NDR DAS! Magazin - \"Ein Inklusionssong für Deutschland\"",
-      "videoId": "BPQpJT0kyMw"
+      "title": "Amelinde.de Interview mit Mischa Golke",
+      "videoId": "YXwlsITaGBo"
     },
     {
-      "title": "NDR SH-Magazin - \"Mischa Gohlke - Musiker ohne Gehör\"",
+      "title": "Mischa Gohlke Band & Firends 2013 - 2017 (Teil 1)",
+      "videoId": "ci9TLBkRU20"
+    },
+    {
+      "title": "Mischa Gohlke Band & Firends 2013 - 2017 (Teil 2)",
+      "videoId": "o0O-MyYbtjo"
+    },
+    {
+      "title": "NDR SH-Magazin \"Mischa Golke - Musiker ohne Gehör\"",
       "videoId": "7RohEwmDdXY"
     },
     {
@@ -17,28 +25,12 @@
       "videoId": "XCACmrTMky8"
     },
     {
-      "title": "Aftermovie - \"2. Grenzen sind relativ Festival 2018 // Fabrik Hamburg Altona\"",
-      "videoId": "tfQJfC9bmmU"
-    },
-    {
-      "title": "Aftermovie - \"1. Grenzen sind relativ Festival 2017 // Fabrik Hamburg Altona\"",
-      "videoId": "2vPra2EI_5I"
-    },
-    {
-      "title": "Aftermovie - \"AndersSein vereint Festival 2015 // Knust Hamburg\"",
-      "videoId": "YtkNIEK4zEs"
-    },
-    {
-      "title": "Amelinde.de - Interview mit Mischa Gohlke",
-      "videoId": "YXwlsITaGBo"
-    },
-    {
       "title": "Zu Gast bei KRAUTHAUSEN - face to face: Mischa Gohlke",
       "videoId": "HdGdU3JdKVQ"
     },
     {
-      "title": "vollWert - \"Musik und Inklusion - AndersSein vereint\"",
-      "videoId": "LlIbuEv-7AM"
+      "title": "Musikvideo - \"AndersSein vereint - Inklusionssong für Deutschland\"",
+      "videoId": "KPi9ZNp-YJQ"
     }
   ]
 }

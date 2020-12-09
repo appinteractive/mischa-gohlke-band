@@ -11,11 +11,9 @@ alias: ''
 
 Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter. Und vor allem Mensch. Der Hamburger Gitarrist Mischa Gohlke ist facettenreich und ebenso seine erstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung ist er erfolgreich den Weg als Profimusiker gegangen und hat damit das scheinbar Unmögliche möglich gemacht.
 
-![Mischa Gohlke](/media/2020/12/bio_mischa_2x.jpg)
+![Mischa, Olli und Rico](/media/2020/12/bio-start.jpg "Mischa, Olli und Rico")
 
 In der nach ihm benannten „Mischa Gohlke Band“ fließen englisch- & deutschsprachige Eigenkompositionen zu einer explosiven Melange aus Blues-, Funk-, Rock- und Pop-Elementen zusammen und stehen Songinterpretationen von Jimi Hendrix & Stevie Ray Vaughan, die immer mal wieder in das Live-Programm einfließen, in nichts nach.
-
-![Olli Rico](/media/2020/12/bio_olli_rico_2x.jpg)
 
 Komplettiert wird die Band durch den aus Los Angeles stammenden Multiinstrumentalisten Rico Bowen (Vocals, Bass), der bereits mit Weltstars wie Madonna und Shakira auf Tour gewesen ist, sowie den Schlagzeuger Jorge Bläsi (Popkurs, Martin Oberleitner, usw.).
 
