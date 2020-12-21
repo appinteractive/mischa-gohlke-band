@@ -17,7 +17,8 @@
       "disabled": true
     },
     {
-      "title": "Videos"
+      "title": "Videos",
+      "page": "content/videos.md"
     },
     {
       "title": "Presse",
