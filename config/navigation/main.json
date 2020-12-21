@@ -16,6 +16,9 @@
       ]
     },
     {
+      "title": "Videos"
+    },
+    {
       "title": "Presse",
       "page": "content/presse.md",
       "children": [
