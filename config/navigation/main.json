@@ -13,7 +13,8 @@
       "page": "content/band.md",
       "children": [
 
-      ]
+      ],
+      "disabled": true
     },
     {
       "title": "Videos"
