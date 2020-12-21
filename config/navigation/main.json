@@ -20,7 +20,8 @@
       "page": "content/presse.md",
       "children": [
 
-      ]
+      ],
+      "disabled": true
     },
     {
       "title": "Live",
