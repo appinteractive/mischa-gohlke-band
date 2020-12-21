@@ -11,8 +11,11 @@ seite:
 
 ## **Mischa Gohlke - Grenzen sind relativ**
 
-Über seine Band hinaus ist Mischa Gohlke als Speaker, Dozent, Autor, Aktivist und Inklusionsbotschafter europaweit unterwegs.
+Als glaubwürdiger Botschafter initiierte er 2016 den gemeinnützigen Verein “[Grenzen sind relativ e.V.](www.grenzensindrelativ.de)”, der sich mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunterricht, Workshops, Coaching, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen für eine inklusive, integrale und friedliche Gesellschaft einsetzt.
 
-Zudem gründete er - nach seinem Fernstudium für Kultur- und Medienmanagement an der Hochschule für Musik und Theater Hamburg - als glaubwürdiger Botschafter das deutschlandweit einmalige Aktionsbüro **„Grenzen sind relativ e.V.“**, welches sich mit verschiedensten Projekten, Veranstaltungen und Kampagnen für eine inklusive, integrale und friedliche Gesellschaft einsetzt. [www.grenzensindrelativ.de](http://www.grenzensindrelativ.de)
+In folgenden Aktionsfeldern ist die Mischa Gohlke Band aktiv:
 
-In Zusammenarbeit mit “Grenzen sind relativ e.V.” wirkt die “Mischa Gohlke Band” entscheidend bei regelmäßigen **Künstlerkollektiv-Crossover-Projekten** mit, in denen Kampagnen-Songs zu essentiellen Themen wie Inklusion und Frieden als Musikvideo produziert werden. Über die umfangreiche mediale Öffentlichkeitsarbeit & Bewusstseinsbildung hinaus, werden hierbei vor allem Impulse für weiterführende Synergien und Basisarbeit freigesetzt.
+* [Musikunterricht für Hörgeschädigte, Workshops & Coaching](https://www.grenzensindrelativ.de/aktivitaeten/musikunterricht-workshops-coaching/musikunterricht-fuer-hoergeschaedigte/worum-geht-es-musikunterricht-fur-horgeschadigte)
+* [Workshops, Talk & Konzert von/mit der Mischa Gohlke Band](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/konzert-workshops-talk-von-mit-der-mischa-gohlke-band)
+* [Spektralkombüse - Erfahrbare Inklusion durch Musik, Tanz und Kabarett von/mit Kassandra Wedel, Martin Fromme und der Mischa Gohlke Band](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/veranstaltungsformate-fuer-dein-event/spektralkombuese)
+* [Kampagne "AndersSein vereint - Inklusionssong für Deutschland"](https://www.grenzensindrelativ.de/aktivitaeten/kampagnen-musikvideos/anderssein-vereint/asv-worum-geht-es)
