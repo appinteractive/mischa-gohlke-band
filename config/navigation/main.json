@@ -14,11 +14,7 @@
       "children": [
 
       ],
-      "disabled": true
-    },
-    {
-      "title": "Videos",
-      "page": "content/videos.md"
+      "disabled": false
     },
     {
       "title": "Presse",
