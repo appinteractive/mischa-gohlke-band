@@ -1,10 +1,16 @@
 ---
 title: Mischa Gohlke Band
-description: "Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter.
+description: 'Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter.
   Und vor allem Mensch. Der Hamburger Gitarrist Mischa Gohlke ist facettenreich und
   ebenso seine erstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung
   ist er erfolgreich den Weg als Profimusiker gegangen und hat damit das scheinbar
-  Unmögliche möglich gemacht. \n"
+  Unmögliche möglich gemacht. In der nach ihm benannten „Mischa Gohlke Band“ fließen
+  englisch- & deutschsprachige Eigenkompositionen zu einer explosiven Melange aus
+  Blues-, Funk-, Rock- und Pop-Elementen zusammen und stehen Songinterpretationen
+  von Jimi Hendrix & Stevie Ray Vaughan, die immer mal wieder in das Live-Programm
+  einfließen, in nichts nach.
+
+'
 teaser: "/media/2020/12/Banner_7-1024x640_2x.jpg"
 wide: true
 seite:
