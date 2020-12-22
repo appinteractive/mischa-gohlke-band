@@ -1,6 +1,12 @@
 ---
 title: Engagement
-description: Engagement
+description: 'Als glaubwürdiger Botschafter initiierte Mischa Gohlke 2016 den gemeinnützigen
+  Verein “Grenzen sind relativ e.V.”, der sich mit verschiedensten Projekten & Veranstaltungen,
+  Kampagnen-Musikvideos, Musikunterricht, Workshops, Coaching, Öffentlichkeitsarbeit
+  & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen für eine inklusive,
+  integrale und friedliche Gesellschaft einsetzt.
+
+'
 teaser: "/media/2020/12/Banner_7-1024x640_2x.jpg"
 wide: true
 seite:
@@ -11,7 +17,7 @@ seite:
 
 ## **Mischa Gohlke - Grenzen sind relativ**
 
-Als glaubwürdiger Botschafter initiierte er 2016 den gemeinnützigen Verein “[Grenzen sind relativ e.V.](www.grenzensindrelativ.de)”, der sich mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunterricht, Workshops, Coaching, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen für eine inklusive, integrale und friedliche Gesellschaft einsetzt.
+Als glaubwürdiger Botschafter initiierte Mischa Gohlke 2016 den gemeinnützigen Verein “[Grenzen sind relativ e.V.](www.grenzensindrelativ.de)”, der sich mit verschiedensten Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunterricht, Workshops, Coaching, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen für eine inklusive, integrale und friedliche Gesellschaft einsetzt.
 
 In folgenden Aktionsfeldern ist die Mischa Gohlke Band aktiv:
 
