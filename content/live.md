@@ -9,4 +9,4 @@ seite:
 ---
 # Live
 
-Aktuell keine Termine ...
+Die Termine werden Anfang 2021 bekannt gegeben.
