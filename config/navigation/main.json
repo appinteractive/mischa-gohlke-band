@@ -9,6 +9,10 @@
       "url": "/"
     },
     {
+      "title": "Videos",
+      "page": "content/videos.md"
+    },
+    {
       "title": "Band",
       "page": "content/band.md",
       "children": [
