@@ -31,10 +31,10 @@ Das Power-Trio spielte bereits auf zahlreichen Festivals & Veranstaltungen in de
 
 Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen lässt.
 
-Referenzen:
-
-Bekannt aus ARD, ZDF, RTL, Sat1, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, HH1, ORF, Sport 1, NDR 90.3, NDR 1 Welle Nord, Deutsche Welle, Deutschland Radio, Deutschlandfunk Kultur, Radio Berlin 88,8, Kieler Nachrichten, TAZ, MOPO, Hamburger Abendblatt, Kobinet Nachrichten, Aktion Mensch, Hearzone, LifeInSight, Lebensart, Szene, Oxmox, Prinz, musiker, Gitarre & Bass, Musikschule intern, uvam.
-
-Bereits bespielte Bühnen: Kieler Woche (NDR, Rathausbühne, Max Santa Fe, usw.), Fabrik Hamburg, Philharmonic Minsk, Sommerblut Festival Köln, Philharmonie Luxembourg, Tanzbrunnenbühne Kölner Rheinpark, Pumpe Kiel, Werkhof Lübeck, Downtown Bluesclub Hamburg, Stadtfest Eutin, Altonale Hamburg, Millerntorstadion St. Pauli, Hamburger Volksparkstadion, Wirsol Rhein-Neckar-Arena,uvam.
-
 <video-gallery name="startseite-video-galerie"></video-galerie>
+
+_Referenzen:_
+
+_Bekannt aus ARD, ZDF, RTL, Sat1, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, HH1, ORF, Sport 1, NDR 90.3, NDR 1 Welle Nord, Deutsche Welle, Deutschland Radio, Deutschlandfunk Kultur, Radio Berlin 88,8, Kieler Nachrichten, TAZ, MOPO, Hamburger Abendblatt, Kobinet Nachrichten, Aktion Mensch, Hearzone, LifeInSight, Szene, Oxmox, Prinz, musiker, Gitarre & Bass, Musikschule intern, uvam._
+
+_Bereits bespielte Bühnen: Kieler Woche (NDR, Rathausbühne, Max Santa Fe, usw.), Fabrik Hamburg, Philharmonic Minsk, Sommerblut Festival Köln, Philharmonie Luxembourg, Tanzbrunnenbühne Kölner Rheinpark, Pumpe Kiel, Werkhof Lübeck, Downtown Bluesclub Hamburg, Stadtfest Eutin, Altonale Hamburg, Millerntorstadion St. Pauli, Hamburger Volksparkstadion, Wirsol Rhein-Neckar-Arena, uvam._
