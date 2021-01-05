@@ -1,7 +1,7 @@
 <template>
   <div>
     <a
-      href="https://www.youtube.com/channel/UCvADF2ZMvSg5DonZ06Kf3KA"
+      href="https://www.youtube.com/channel/UCS39U7KffmWzTqSGCZm64Mw"
       rel="noopener"
       target="_blank"
       title="Youtube"
