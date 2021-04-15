@@ -8,5 +8,3 @@ seite:
 
 ---
 # Live
-
-Die Termine werden Anfang 2021 bekannt gegeben.
