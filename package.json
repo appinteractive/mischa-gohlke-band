@@ -9,42 +9,69 @@
     "generate": "nuxt generate --modern=client",
     "storybook": "nuxt storybook",
     "forestry-preview": "nuxt -p 8080 -H 0.0.0.0",
-    "clean": "rm -rf ./static/thumbs"
+    "clean": "rm -rf ./static/thumbs",
+    "lint:md": "remark content"
   },
-  "engines": {
-    "node": ">= 12.13.0"
+  "remarkConfig": {
+    "plugins": [
+      "lint-no-empty-sections",
+      "lint-no-file-name-mixed-case",
+      "lint-no-file-name-irregular-characters",
+      "lint-ordered-list-marker-value",
+      [
+        "remark-lint-no-emphasis-as-heading",
+        false
+      ],
+      "remark-preset-lint-recommended",
+      [
+        "remark-lint-list-item-indent",
+        false
+      ],
+      [
+        "lint-final-newline",
+        false
+      ]
+    ]
   },
   "dependencies": {
-    "@nuxt/content": "^1.11.1",
-    "@nuxtjs/pwa": "^3.3.2",
-    "@nuxtjs/sentry": "^4.5.0",
+    "@nuxt/content": "^1.14.0",
+    "@nuxtjs/pwa": "^3.3.5",
+    "@nuxtjs/sentry": "^5.1.0",
     "@nuxtjs/sitemap": "^2.4.0",
     "@vue-a11y/announcer": "^2.1.0",
-    "nuxt": "^2.14.9",
-    "storyblok-nuxt": "^1.3.0",
-    "swiper": "^6.3.5",
+    "nuxt": "^2.15.7",
+    "swiper": "^6.7.5",
     "vue-awesome-swiper": "^4.1.1",
-    "vue-observe-visibility": "^0.4.6",
+    "vue-observe-visibility": "^1.0.0",
     "vue-responsive-video-background-player": "1.2.1",
-    "vue-svg-loader": "^0.16.0",
-    "vue-truncate-filter": "^1.1.7"
+    "vue-svg-loader": "^0.16.0"
   },
   "devDependencies": {
     "@nuxtjs/google-analytics": "^2.4.0",
-    "@nuxtjs/tailwindcss": "^3.3.1",
-    "@nuxtjs/vercel-builder": "^0.18.1",
-    "@tailwindcss/typography": "^0.3.1",
-    "autoprefixer": "^9",
+    "@nuxtjs/tailwindcss": "^4.2.0",
+    "@nuxtjs/vercel-builder": "^0.21.3",
+    "@tailwindcss/typography": "^0.4.1",
+    "autoprefixer": "^10.2.6",
     "babel-plugin-transform-remove-console": "^6.9.4",
-    "eslint-config-prettier": "^6.11.0",
-    "eslint-plugin-prettier": "^3.1.4",
-    "image-size": "^0.9.3",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "image-size": "^1.0.0",
     "imurmurhash": "^0.1.4",
     "mkdirp": "^1.0.4",
-    "postcss": "^7",
-    "prettier": "^2.2.1",
-    "sharp": "^0.26.3",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "nuxt-build-optimisations": "^1.0.5",
+    "postcss": "^8.3.5",
+    "prettier": "^2.3.2",
+    "remark-cli": "^9.0.0",
+    "remark-lint": "^8.0.0",
+    "remark-lint-no-emphasis-as-heading": "^2.0.1",
+    "remark-lint-no-empty-sections": "^4.0.0",
+    "remark-lint-no-file-name-irregular-characters": "^1.0.5",
+    "remark-lint-no-file-name-mixed-case": "^1.0.5",
+    "remark-lint-ordered-list-marker-value": "^2.0.1",
+    "remark-preset-lint-markdown-style-guide": "^4.0.0",
+    "remark-preset-lint-recommended": "^5.0.0",
+    "sharp": "^0.28.3",
+    "tailwindcss": "^2.2.4",
     "unist-util-visit": "^2.0.3"
   }
 }

@@ -24,7 +24,7 @@
       href="https://eepurl.com/1Vb2r"
       rel="noopener"
       target="_blank"
-      title="Instagram"
+      title="Newsletter"
       class="flex ml-3 hover:text-red-700"
     >
       <IconEmail class="h-5 w-5" />

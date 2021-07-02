@@ -7,7 +7,7 @@
       role="main"
       aria-label="Inhalt"
     >
-      <Nuxt class="pt-32" />
+      <Nuxt class="!pt-32" />
     </main>
     <!-- <VueAnnouncer /> -->
     <Footer :navigation="footerNav" :copyright="copyright" aria-label="Fußleiste" />

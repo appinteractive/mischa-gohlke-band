@@ -16,15 +16,14 @@ export default {
   //   name: 'fade',
   //   mode: 'fade'
   // },
-  /*
-   ** Nuxt target
-   ** See https://nuxtjs.org/api/configuration-target
-   */
+
   target: 'static',
-  /*
-   ** Headers of the page
-   ** See https://nuxtjs.org/api/configuration-head
-   */
+
+  // Speed up development experience
+  buildOptimisations: {
+    profile: isProd ? false : 'experimental',
+  },
+
   head: {
     htmlAttrs: {
       lang: 'de',
@@ -76,14 +75,9 @@ export default {
       },
     ],
   },
-  /*
-   ** Global CSS
-   */
+
   css: [],
-  /*
-   ** Plugins to load before mounting the App
-   ** https://nuxtjs.org/guide/plugins
-   */
+
   plugins: [
     { src: '~/plugins/store-init.js' },
     { src: '~/plugins/vue-awesome-swiper', mode: 'client' },
@@ -93,16 +87,13 @@ export default {
     // '~/plugins/components.js',
     // '~/plugins/preview.client.js'
   ],
-  /*
-   ** Auto import components
-   ** See https://nuxtjs.org/api/configuration-components
-   */
+
   components: true,
   /*
    ** Nuxt.js dev-modules
    */
   buildModules: [
-    // Doc: https://github.com/nuxt-community/nuxt-tailwindcss
+    'nuxt-build-optimisations',
     '@nuxtjs/tailwindcss',
     '@nuxtjs/google-analytics',
     '@nuxtjs/sentry',
@@ -114,12 +105,9 @@ export default {
     dsn: process.env.SENTRY_DSN,
     config: {},
   },
-  /*
-   ** Nuxt.js modules
-   */
+
   modules: [
     '@nuxtjs/pwa',
-    // Doc: https://github.com/nuxt/content
     '@nuxt/content',
     '@nuxtjs/sitemap',
     // [
@@ -143,13 +131,16 @@ export default {
       ],
     },
   },
-  /*
-   ** Build configuration
-   ** See https://nuxtjs.org/api/configuration-build/
-   */
+
   build: {
     babel: {
       plugins: isProd ? ['transform-remove-console'] : [],
+    },
+    postcss: {
+      plugins: {
+        'tailwindcss': {},
+        'autoprefixer': {},
+      },
     },
     extend: (config) => {
       const svgRule = config.module.rules.find((rule) => rule.test.test('.svg'))
@@ -195,11 +186,11 @@ export default {
     },
     manifest: {
       name: settings.title,
-      short_name: 'GSR e.V.',
+      short_name: 'MGB',
       description: settings.description,
       theme_color: '#fff',
       appleStatusBarStyle: 'white',
-      ogImage: '/media/2020/10/social-banner-2020-5.jpg',
+      ogImage: '/icon.png',
     },
   },
 }
