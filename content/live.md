@@ -11,7 +11,5 @@ seite:
 
 Mo. 2.08. Kultursommer St. Pauli - Spielbudenplatz    
 Showtime: 19.00 - 20.15 Uhr   
-Eintritt ist frei - kommt vorbei!:)
-
-Weitere Infos:  
+Eintritt ist frei - kommt vorbei!:)  
 [https://spielbudenplatz.eu/erleben/events/mischa-gohlke-band](https://spielbudenplatz.eu/erleben/events/mischa-gohlke-band "https://spielbudenplatz.eu/erleben/events/mischa-gohlke-band")
