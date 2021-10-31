@@ -33,7 +33,7 @@ Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen l
 
 _Referenzen:_
 
-_Bekannt aus ARD, ZDF, RTL, Sat1, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, HH1, ORF, Sport 1, NDR 90.3, NDR 1 Welle Nord, Deutsche Welle, Deutschland Radio, Deutschlandfunk Kultur, Radio Berlin 88,8, Kieler Nachrichten, TAZ, MOPO, Hamburger Abendblatt, Kobinet Nachrichten, Aktion Mensch, Hearzone, LifeInSight, Szene, Oxmox, Prinz, musiker, Gitarre & Bass, Musikschule intern, uvam._
+_Bekannt aus ARD, ZDF, RTL, Sat1, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, HH1, ORF, Sport 1, NDR 90.3, NDR 1 Welle Nord, Deutsche Welle, Deutschland Radio, Deutschlandfunk Kultur, Radio Berlin 88,8, Kieler Nachrichten, Zeit, TAZ, MOPO, Hamburger Abendblatt, Kobinet Nachrichten, Aktion Mensch, Hearzone, LifeInSight, Szene, Oxmox, Prinz, musiker, Gitarre & Bass, Musikschule intern, uvam._
 
 _Bisher bespielte Bühnen: Kieler Woche (NDR, Rathausbühne, Max Santa Fe, usw.), Fabrik Hamburg, Philharmonic Minsk, Sommerblut Festival Köln, Philharmonie Luxembourg, Tanzbrunnenbühne Kölner Rheinpark, Pumpe Kiel, Werkhof Lübeck, Downtown Bluesclub Hamburg, Stadtfest Eutin, Altonale Hamburg, Millerntorstadion St. Pauli, Hamburger Volksparkstadion, Wirsol Rhein-Neckar-Arena, uvam._
 
