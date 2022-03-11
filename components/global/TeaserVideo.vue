@@ -14,7 +14,7 @@
         />
       </client-only>
       <!-- <logo class="absolute w-auto lg:w-auto h-48 max-w-full px-12" /> -->
-      <HLine class="absolute text-gray-800 -mt-6 h-6 bottom-0 transform scale-y-[-100%] w-screen" />
+      <HLine class="absolute text-gray-800 -mt-6 h-6 bottom-0 transform w-screen" />
     </div>
   </div>
 </template>
