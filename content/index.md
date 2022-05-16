@@ -25,7 +25,7 @@ Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter.
 
 In der nach ihm benannten „Mischa Gohlke Band“ fließen englisch- & deutschsprachige Eigenkompositionen zu einer explosiven Melange aus Blues-, Funk-, Rock- und Pop-Elementen zusammen und stehen Songinterpretationen von Jimi Hendrix & Stevie Ray Vaughan, die immer mal wieder in das Live-Programm einfließen, in nichts nach.
 
-Komplettiert wird die Band durch den Bassisten [David Alleckna](https://alleckna.de/) _(Phil Collins, Udo Lindenberg, Inga Rumpf, Sasha, Nena)_, den Schlagzeuger [Jens Carstens](https://de.wikipedia.org/wiki/Jens_Carstens) _(Udo Lindenberg, Selig, Heinz Rudolf Kunze, Patricia Kaas, Helene Fischer)_ und den Sänger [Volkan Baydar](https://www.volkanbaydar.com/) _(Orange Blue)_. 
+Komplettiert wird die Band durch den Bassisten [David Alleckna](https://alleckna.de/) _(Phil Collins, Udo Lindenberg, Inga Rumpf, Sasha, Nena)_, den Schlagzeuger [Jens Carstens](https://de.wikipedia.org/wiki/Jens_Carstens) _(Udo Lindenberg, Selig, Heinz Rudolf Kunze, Patricia Kaas, Helene Fischer)_ und [Volkan Baydar](https://www.volkanbaydar.com/) _(Orange Blue)_ am Gesang.
 
 Die Mischa Gohlke Band spielte bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho.
 
