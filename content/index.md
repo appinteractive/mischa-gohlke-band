@@ -25,7 +25,7 @@ Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter.
 
 In der nach ihm benannten „Mischa Gohlke Band“ fließen englisch- & deutschsprachige Eigenkompositionen zu einer explosiven Melange aus Blues-, Funk-, Rock- und Pop-Elementen zusammen und stehen Songinterpretationen von Jimi Hendrix & Stevie Ray Vaughan, die immer mal wieder in das Live-Programm einfließen, in nichts nach.
 
-Komplettiert wird die Band durch den Bassisten David Alleckna (Phil Collins, Udo Lindenberg, Nena), dem Schlagzeuger Michael Nick (The Magic of Santana, Trez Hombres) und Alexandra Pengler Vocal Coach (Sharon Shannon, The Corrs, The Frames) am Gesang.
+Komplettiert wird die Band durch den Bassisten David Alleckna (Phil Collins, Udo Lindenberg, Nena), dem Schlagzeuger Michael Nick (The Magic of Santana, Trez Hombres) und Alexandra Pengler (Sharon Shannon, The Corrs, The Frames) am Gesang.
 
 Die Mischa Gohlke Band spielte bereits auf zahlreichen Festivals & Veranstaltungen in der Republik und über ihre Grenzen hinaus, stets begleitet von einem außergewöhnlichen Medienecho.
 
