@@ -9,9 +9,11 @@ seite:
 ---
 # Live
 
-**18.06.2022:** [Special Olympics Berlin](https://specialolympics.de/) 
+**18.06.2022:** [Special Olympics Berlin](https://specialolympics.de/) - 20.30 bis 21.30 Uhr - Bühne am Neptunbrunnen (Rathausstraße 1, 10178 Berlin)
 
-**19.06.2022:** ["altonale" (Platz der Republik) in Hamburg - Grenzen sind relativ e.V. präsentiert: "Celebrate the music - Come together!"](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/veranstaltungstermine)
+**19.06.2022:** ["altonale" (Bühne am Festivalzentrum - Platz der Republik) in Hamburg - Grenzen sind relativ e.V. präsentiert: "Celebrate the music - Come together!"](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/erlebnistage-inklusion-durch-musik/veranstaltungstermine)
+
+**13.07.2022:** [Breminale](https://breminale-festival.de/) - SCHLEUSE (Zirkuszelt-Bühne)
 
 **29.07.2022:** [Pax Terra Musica Friedensfestival](https://www.pax-terra-musica.de/)
 
