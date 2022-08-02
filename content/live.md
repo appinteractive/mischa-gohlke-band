@@ -17,4 +17,8 @@ seite:
 
 **29.07.2022:** [Pax Terra Musica Friedensfestival](https://www.pax-terra-musica.de/)
 
+**06.08.2022:** [Inklusion Rockt & Rollt ](https://handiclapped-berlin.de/inklusion-rockt-und-rollt-in-hamburg/)(Brakula - Bramfelder Kulturladen e.V.)
+
 **11.09.2022:** [Sportfest "Norderstedt bewegt Inklusion"](http://norderstedt-sportiv-inklusiv.de/)
+
+**01.10.2022:** [4. Grenzen sind relativ Festival ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos)(Spielbudenplatz Hamburg)
