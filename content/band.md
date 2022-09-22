@@ -9,9 +9,7 @@ alias: ''
 ---
 # Mischa Gohlke Band
 
-Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter. Und vor allem Mensch. Der Hamburger Gitarrist Mischa Gohlke ist facettenreich und ebenso seine erstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung ist er erfolgreich den Weg als Profimusiker gegangen und hat damit das scheinbar Unmögliche möglich gemacht.
-
-![Mischa, Olli und Rico](/media/2020/12/bio-start.jpg "Mischa, Olli und Rico")
+Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter. Und vor allem Mensch. Der Hamburger Gitarrist Mischa Gohlke ist facettenreich und ebenso seine erstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung ist er erfolgreich den Weg als Profimusiker gegangen und hat damit das scheinbar Unmögliche möglich gemacht
 
 In der nach ihm benannten „Mischa Gohlke Band“ fließen englisch- & deutschsprachige Eigenkompositionen zu einer explosiven Melange aus Blues-, Funk-, Rock- und Pop-Elementen zusammen und stehen Songinterpretationen von Jimi Hendrix & Stevie Ray Vaughan, die immer mal wieder in das Live-Programm einfließen, in nichts nach.
 
@@ -25,4 +23,4 @@ Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen l
 
 **Bekannt aus** ARD, ZDF, RTL, Sat1, N3, BR3, WDR, MDR, 3sat, SWR, HR, RBB, HH1, ORF, Sport 1, NDR 90.3, NDR 1 Welle Nord, Deutsche Welle, Deutschland Radio, Deutschlandfunk Kultur, Radio Berlin 88,8, Kieler Nachrichten, TAZ, MOPO, Hamburger Abendblatt, Kobinet Nachrichten, Aktion Mensch, Hearzone, LifeInSight, Lebensart, Szene, Oxmox, Prinz, musiker, Gitarre & Bass, Musikschule intern, uvam.
 
-**Bereits bespielte Bühnen:** Kieler Woche (NDR, Rathausbühne, Max Santa Fe, usw.), Fabrik Hamburg, Philharmonic Minsk, Sommerblut Festival Köln, Philharmonie Luxembourg, Tanzbrunnenbühne Kölner Rheinpark, Pumpe Kiel, Werkhof Lübeck, Downtown Bluesclub Hamburg, Stadtfest Eutin, Altonale Hamburg, Millerntorstadion St. Pauli, Hamburger Volksparkstadion, Wirsol Rhein-Neckar-Arena,uvam.
+**Bereits bespielte Bühnen:** Kieler Woche (NDR, Rathausbühne, Max Santa Fe, usw.), Fabrik Hamburg, Breminale, Philharmonic Minsk, Sommerblut Festival Köln, Philharmonie Luxembourg, Tanzbrunnenbühne Kölner Rheinpark, Pumpe Kiel, Werkhof Lübeck, Downtown Bluesclub Hamburg, Stadtfest Eutin, Altonale Hamburg, Millerntorstadion St. Pauli, Hamburger Volksparkstadion, Wirsol Rhein-Neckar-Arena,uvam.
