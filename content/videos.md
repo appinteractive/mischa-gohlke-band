@@ -13,6 +13,10 @@ seite:
 
 [https://youtu.be/D2xro2s2Crs](https://youtu.be/D2xro2s2Crs "https://youtu.be/D2xro2s2Crs")
 
+## NDR - "Mit dem Körper hören - Musik erleben"
+
+[https://youtu.be/R4x_BqhM8-w](https://youtu.be/R4x_BqhM8-w "https://youtu.be/R4x_BqhM8-w")
+
 ## NDR SH-Magazin - "Mischa Gohlke - Musiker ohne Gehör"
 
 [https://youtu.be/7RohEwmDdXY](https://youtu.be/7RohEwmDdXY "https://youtu.be/7RohEwmDdXY")
