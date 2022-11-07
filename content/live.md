@@ -21,4 +21,4 @@ seite:
 
 **11.09.2022:** [Sportfest "Norderstedt bewegt Inklusion"](http://norderstedt-sportiv-inklusiv.de/)
 
-**01.10.2022:** [4. Grenzen sind relativ Festival ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos)(Spielbudenplatz Hamburg)
+**01.10.2022:** [Kultur Alive - Grenzen sind relativ ](https://www.grenzensindrelativ.de/aktivitaeten/projekte-und-veranstaltungen/grenzen-sind-relativ-festivals/allgemeine-infos)(Spielbudenplatz Hamburg)
